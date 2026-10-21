@@ -1,0 +1,14 @@
+@relation exp6student
+
+@attribute Age numeric
+@attribute Marks numeric
+
+@data
+18,45
+19,50
+20,55
+21,60
+30,80
+31,85
+32,90
+33,95
