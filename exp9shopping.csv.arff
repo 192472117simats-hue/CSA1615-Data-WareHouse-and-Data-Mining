@@ -1,0 +1,13 @@
+@relation exp9shopping
+
+@attribute Milk {yes,no}
+@attribute Bread {yes,no}
+@attribute Butter {no,yes}
+
+@data
+yes,yes,no
+yes,yes,yes
+yes,no,yes
+no,yes,yes
+yes,yes,yes
+no,yes,no
